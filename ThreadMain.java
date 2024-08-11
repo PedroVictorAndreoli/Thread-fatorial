@@ -1,4 +1,4 @@
-public class Main {
+public class ThreadMain {
     public static final int NUM_IT = 200000000;
     public static final double SUM_LIMIT = 100;
 
